@@ -1,0 +1,133 @@
+{
+    "men":[
+        {
+            "id": "1",
+        "price": 2500,
+        "title": "Remeras Santa Cruz - Varios Colores",
+        "image": "media/men/3.jpeg",
+        "image2": "media/men/4.jpeg"
+        },
+        {
+            "id": "2",
+        "price": 2800,
+        "title": "Remeras Rip Curl - Varios Colores",
+        "image": "media/men/5.jpeg",
+        "image2": "media/men/6.jpeg"
+        },
+        {
+            "id": "3",
+        "price": 2750,
+        "title": "Remeras Billabong - Varios Colores",
+        "image": "media/men/7.jpeg",
+        "image2": "media/men/8.jpeg"
+        },
+        {
+            "id": "4",
+        "price": 2800,
+        "title": "Remeras Rip Curl - Varios Colores",
+        "image": "media/men/9.jpeg",
+        "image2": "media/men/10.jpeg"
+        },
+        {
+            "id": "5",
+        "price": 2600,
+        "title": "Remeras Rusty - Varios Colores",
+        "image": "media/men/11.jpeg",
+        "image2": "media/men/12.jpeg"
+        },
+        {
+            "id": "6",
+        "price": 2800,
+        "title": "Remeras Rip Curl - Varios Colores",
+        "image": "media/men/13.jpeg",
+        "image2": "media/men/14.jpeg"
+        },
+        {
+            "id": "7",
+        "price": 2800,
+        "title": "Remeras Quiksilver - Varios Colores",
+        "image": "media/men/15.jpeg",
+        "image2": "media/men/16.jpeg"
+        },
+        {
+            "id": "8",
+        "price": 2600,
+        "title": "Remeras Volcom - Varios Colores",
+        "image": "media/men/18.jpeg",
+        "image2": "media/men/19.jpeg"
+        },
+        {
+            "id": "9",
+        "price": 2750,
+        "title": "Remeras Billabong - Varios Colores",
+        "image": "media/men/17.jpeg",
+        "image2": "media/men/20.jpeg"
+        },
+        {
+            "id": "10",
+        "price": 3500,
+        "title": "Camperas Vans - Varios Colores",
+        "image": "media/men/21.jpeg",
+        "image2": "media/men/22.jpeg"
+        },
+        {
+            "id": "11",
+        "price": 3200,
+        "title": "Camperas Hanqloose - Varios Colores",
+        "image": "media/men/23.jpeg",
+        "image2": "media/men/24.jpeg"
+        },
+        {
+            "id": "12",
+        "price": 3000,
+        "title": "Camperas Quiksilver - Varios Colores",
+        "image": "media/men/25.jpeg",
+        "image2": "media/men/26.jpeg"
+        },
+        {
+            "id": "13",
+        "price": 3000,
+        "title": "Buzos de Cuello redondo Vans - Varios Colores",
+        "image": "media/men/33.jpeg",
+        "image2": "media/men/34.jpeg"
+        },
+        {
+            "id": "14",
+        "price": 3000,
+        "title": "Buzos de Cuello redondo Vans - Varios Colores",
+        "image": "media/men/36.jpeg",
+        "image2": "media/men/38.jpeg"
+        }
+    ],
+
+    "newArrivals":[
+        {
+            "id": "25",
+        "price": 2500,
+        "title": "Remeras Santa Cruz - Varios Colores",
+        "image": "media/men/3.jpeg",
+        "image2": "media/men/4.jpeg"
+        },
+        {
+            "id": "26",        
+        "price": 2800,
+        "title": "Remeras Rip Curl - Varios Colores",
+        "image": "media/men/9.jpeg",
+        "image2": "media/men/10.jpeg"        
+        },
+        {
+            "id": "28",
+        "price": 2600,
+        "title": "Remeras Volcom - Varios Colores",
+        "image": "media/men/18.jpeg",
+        "image2": "media/men/19.jpeg"
+        },
+        {
+            "id": "27",
+        "price": 2800,
+        "title": "Remeras Quiksilver - Varios Colores",
+        "image": "media/men/15.jpeg",
+        "image2": "media/men/16.jpeg"
+        }
+    ]    
+}
