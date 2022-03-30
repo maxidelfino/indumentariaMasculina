@@ -215,9 +215,7 @@ footer p {
   height: 410px;
 }
 .containerDisplay {
-  max-width: 1390px;
   margin: auto;
-  max-height: 350px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -247,15 +245,15 @@ footer p {
 .containerDisplayMobile :nth-child(3) {
   margin-bottom: 0px;
 }
-.mobileDisplay1 {
-  background: url(../media/collection1mobile.jpg) no-repeat center center;
+/* .mobileDisplay1 {
+  background: url(/media/men/38.jpeg) no-repeat center center;
 }
 .mobileDisplay2 {
-  background: url(../media/collection3mobile.jpg) no-repeat center center;
+  background: url(../media/men/34.jpeg) no-repeat center center;
 }
 .mobileDisplay3 {
-  background: url(../media/collection2mobile.jpg) no-repeat center center;
-}
+  background: url(../media/men/41.jpeg) no-repeat center center; */
+/* } */
 @media all and (max-width: 768px) {
   .temp {
     height: 0;
